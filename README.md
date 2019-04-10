@@ -24,8 +24,6 @@ latex模板类包括文本布局类scutthesis.cls和参考文献样式scutthesis
 在lyx中采用scutthesis.layout布局，输入你的论文内容如scutthesis.lyx格式，
 再一键调用xelatex自动编译成scutthesis.tex文件，并加入scutthesis.cls和scutthesis.bst生成最终的pdf文件。
 
-详细的设计内容，见发布包中的scutthesis.pdf文件。 图1:
-![framework] (figure/scutthesis.png "framework")
 
 【适用对象】
 ----------
