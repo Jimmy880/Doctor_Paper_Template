@@ -1,0 +1,19 @@
+\contentsline {chapter}{摘要}{1}{chapter*.1}
+\contentsline {chapter}{Abstract}{2}{chapter*.2}
+\contentsline {chapter}{表格目录}{4}{chapter*.4}
+\contentsline {chapter}{插图目录}{5}{chapter*.5}
+\contentsline {chapter}{主要符号对照表}{6}{chapter*.6}
+\contentsline {chapter}{英文缩略词}{7}{chapter*.8}
+\contentsline {chapter}{\numberline {1}绪论}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}研究意义}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}本文的贡献}{1}{section.1.2}
+\contentsline {chapter}{\numberline {2}\LaTeX {}与Lyx排版简介}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}\TeX {}/\LaTeX {}概要}{2}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}关于\LaTeX {}宏包的设计}{3}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Lyx工具简介}{3}{section.2.2}
+\contentsline {chapter}{\numberline {3}结论}{5}{chapter.3}
+\contentsline {chapter}{参考文献}{7}{chapter*.12}
+\contentsline {chapter}{附录}{9}{appendix*.13}
+\contentsline {section}{\numberline {{附录}1}Ubuntu Linux系统下中文字体的安装}{9}{section.C.1}
+\contentsline {chapter}{致谢}{10}{appendix*.14}
+\contentsfinish 
